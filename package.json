@@ -1,0 +1,28 @@
+{
+  "name": "scriptjs_coin",
+  "version": "1.0.0",
+  "description": "My own implementation of Crypto and Block Chain in TS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfunani/scriptjs_coin.git"
+  },
+  "keywords": [
+    "Cryto-Currency",
+    "Block-Chain"
+  ],
+  "author": "Delali Funani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfunani/scriptjs_coin/issues"
+  },
+  "homepage": "https://github.com/dfunani/scriptjs_coin#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
